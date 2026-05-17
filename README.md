@@ -1,2 +1,7 @@
-# Web3-Course-Learning-Log
-课程学习记录和任务证明
+# 📚 个人课程学习档案 (Learning Log & Portfolio)
+
+欢迎来到我的学习仓库！这里用于沉淀我在本课程中的学习日志、任务证明及代码。
+
+👤 个人信息
+- 学习目标：按时完成每周打卡，掌握核心概念。
+- x：@Birthy Town
